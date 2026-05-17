@@ -1,0 +1,8 @@
+print(3+6)
+print(6*7)
+print(6/4)
+print("Hello World!")
+print("Hello Python!")
+print(6+7)
+print("Люблю тебя, Петра творенье,")
+print("Люблю твой строгий, стройный вид,")
