@@ -69,7 +69,7 @@ print(round(debt, 2))
 #10th task
 n,m = map(int, input().split())
 res = []
-n = n + (n+1)%2
+n = n + (1-n%2)
 while n <= m:
     res.append(n)
     n += 2
